@@ -8,7 +8,7 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 ## 2. Bezpośrednie linki do notebooków w colaboratory:
 
-[Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/1jmpIQvU_pnOk2FsrCfZj6D-MUG_Whw_j?usp=sharing)
+[Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/1w3YE6rEaNu4nHcVgfEknfwxDj0-jPIZ_?usp=sharing)
 
 
 ..* Aby uruchomić kod danej komórki należy w jej lewym górnym rogu kliknąć na przycisk play.
