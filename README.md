@@ -4,16 +4,21 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 ## 1. Jak korzystać z dostępnych tu notebooków?
 
-..* Notebooki stworzyłem przy pomocy narzędzia google collaboratory. Dzięki niemu można tworzyć notebooki z kodem w pythonie bez potrzeby instalowania czegokolwiek. Po kliknięciu na plik z zadaniami otworzy się notebook. Aby móc z nim pracować należy kliknąć na przycisk: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg). Aby móc edytować notebook trzeba być zalogowanym na swoim koncie google.
+..* Notebooki stworzone są przy pomocy narzędzia google collaboratory. Dzięki niemu można tworzyć notebooki z kodem w pythonie bez potrzeby instalowania czegokolwiek. Notebooki można przeglądać klikając na jeden z powyższych plików. Aby móc edytować notebook należy albo kliknąć na przycisk: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) w wybranym notebooku, albo skorzystać z jednego z poniższych odnośnikó. *Uwaga: aby móc edytować notebook trzeba być zalogowanym na swoim koncie google*.
+
+## 2. Bezpośrednie linki do notebooków w colaboratory:
+
+[Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/1jmpIQvU_pnOk2FsrCfZj6D-MUG_Whw_j?usp=sharing)
+
 
 ..* Aby uruchomić kod danej komórki należy w jej lewym górnym rogu kliknąć na przycisk play.
 
-## 2. Czemu należy korzystać z tych notebooków?
+## 3. Czemu należy korzystać z tych notebooków?
 
 W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego notebooka jest praca domowa.
 
 
-## 3. Użyteczne linki:
+## 4. Użyteczne linki:
 1. [Wprowadzenie do google colab](https://colab.research.google.com/notebooks/intro.ipynb)
 
 2. [Wprowadzenie do numpy](https://numpy.org/doc/stable/user/absolute_beginners.html)
