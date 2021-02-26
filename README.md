@@ -8,11 +8,11 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - Aby przejść do środowiska, w którym można edytować notebook należy albo kliknąć na przycisk: ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) w wybranym notebooku, albo skorzystać z jednego z poniższych odnośników.
 
-- Aby edytować notebook należy być zalogowanym na swoim koncie google i zapisać jego kopie na swoim google drive, wybierając:  Plik → Zapisz kopię na Dysku
-
-- Aby uruchomić kod danej komórki należy w jej lewym górnym rogu kliknąć na przycisk play.
+- Aby edytować notebook i móc go udostępnić należy być zalogowanym na swoim koncie google i zapisać kopie notebooka na swoim google drive, wybierając:  Plik → Zapisz kopię na Dysku.
 
 - Po wykonaniu zadań udostępnij notebook prowadzącemu zajęcia 
+
+- Aby uruchomić kod danej komórki należy w jej lewym górnym rogu kliknąć na przycisk play.
 
 
 ## 2. Bezpośrednie linki do notebooków w colaboratory:
