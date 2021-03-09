@@ -2,6 +2,8 @@
 
 Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwiczeniach. 
 
+## 0. [Zasady zaliczenia ćwiczeń](https://docs.google.com/presentation/d/1hq7n0F9sxR6iNRz9-2DUUfwU2uYJc8wWERCsMUgC0ik/edit?usp=sharing)
+
 ## 1. Jak korzystać z dostępnych tu notebooków?
 
 - Notebooki stworzone są przy pomocy narzędzia google collaboratory. Dzięki niemu można tworzyć notebooki z kodem w pythonie bez potrzeby instalowania czegokolwiek. Notebooki można przeglądać klikając na jeden z powyższych plików.
