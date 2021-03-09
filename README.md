@@ -19,7 +19,7 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 ## 2. Bezpośrednie linki do notebooków w colaboratory:
 
-[Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17R14vfjJoOVy_9MXbhT0DmUhMKGyJBop?usp=sharing)
+[Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/1iurys_Ps03EoYWtINAP_tieao1g7TW7o?usp=sharing)
 
 
 ## 3. Czemu należy korzystać z tych notebooków?
