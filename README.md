@@ -19,8 +19,9 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 ## 2. Bezpośrednie linki do notebooków w colaboratory:
 
-[Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
-[Methoda Eulera] (https://colab.research.google.com/drive/1xiLOfoNI1Vwrrkc08DB7fyCjvwLKcsTX?usp=sharing)
+- [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
+
+- [Methoda Eulera](https://colab.research.google.com/drive/1xiLOfoNI1Vwrrkc08DB7fyCjvwLKcsTX?usp=sharing)
 
 ## 3. Czemu należy korzystać z tych notebooków?
 
