@@ -23,6 +23,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Methoda Eulera](https://colab.research.google.com/drive/11suO1Epl85O7CCaoiDMUcwLvePv1uMoC?usp=sharing)
 
+- [Cwiczenia 2 - rozwiązywanie równań różniczkowych](https://colab.research.google.com/drive/1xiLOfoNI1Vwrrkc08DB7fyCjvwLKcsTX?usp=sharing)
+
 ## 3. Czemu należy korzystać z tych notebooków?
 
 W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego notebooka jest praca domowa.
