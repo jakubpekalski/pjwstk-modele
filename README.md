@@ -25,6 +25,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Cwiczenia 2 - rozwiązywanie równań różniczkowych](https://colab.research.google.com/github/jakubpekalski/pjwstk-modele/blob/main/Cwiczenia_2.ipynb)
 
+- [Ćwiczenia 3 - rzut ukośny, RK4](https://colab.research.google.com/drive/1eAxoY2qemfZt30uszH3yGi-p0TpHFCds?usp=sharing)
+
 ## 3. Czemu należy korzystać z tych notebooków?
 
 W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego notebooka jest praca domowa.
