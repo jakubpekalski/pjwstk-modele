@@ -19,13 +19,20 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 ## 2. Bezpośrednie linki do notebooków w colaboratory:
 
-- [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
+### Studia stacjonarne:
 
-- [Metoda Eulera](https://colab.research.google.com/drive/11suO1Epl85O7CCaoiDMUcwLvePv1uMoC?usp=sharing)
+- [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
 
 - [Cwiczenia 2 - rozwiązywanie równań różniczkowych](https://colab.research.google.com/github/jakubpekalski/pjwstk-modele/blob/main/Cwiczenia_2.ipynb)
 
 - [Ćwiczenia 3 - rzut ukośny, RK4](https://colab.research.google.com/drive/1eAxoY2qemfZt30uszH3yGi-p0TpHFCds?usp=sharing)
+
+### Studia niestacjonarne
+
+- [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
+
+- [Metoda Eulera](https://colab.research.google.com/drive/11suO1Epl85O7CCaoiDMUcwLvePv1uMoC?usp=sharing)
+
 
 ## 3. Czemu należy korzystać z tych notebooków?
 
