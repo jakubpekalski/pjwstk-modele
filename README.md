@@ -21,7 +21,7 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
 
-- [Methoda Eulera](https://colab.research.google.com/drive/11suO1Epl85O7CCaoiDMUcwLvePv1uMoC?usp=sharing)
+- [Metoda Eulera](https://colab.research.google.com/drive/11suO1Epl85O7CCaoiDMUcwLvePv1uMoC?usp=sharing)
 
 - [Cwiczenia 2 - rozwiązywanie równań różniczkowych](https://colab.research.google.com/github/jakubpekalski/pjwstk-modele/blob/main/Cwiczenia_2.ipynb)
 
