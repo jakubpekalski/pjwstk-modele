@@ -51,3 +51,5 @@ W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego note
 2. [Wprowadzenie do numpy](https://numpy.org/doc/stable/user/absolute_beginners.html)
 
 3. [Podstawowe funkcje biblioteki numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+
+4. [Euler, Euler-Cromer, RK2 interaktywnie](http://www.physics.umd.edu/hep/drew/numerical_integration/)
