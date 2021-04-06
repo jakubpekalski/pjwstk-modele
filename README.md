@@ -29,6 +29,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 4 - wahadło matematyczne](https://colab.research.google.com/drive/1mU4KdF4uxU8qxQLlvJV7YHRgB5PTZIls?usp=sharing)
 
+- [Ćwiczenia 5 - gra w życie](https://colab.research.google.com/drive/1LBT6RvHhbrJnfDXmbVUuZh6ExSG4aA_a?usp=sharing)
+
 ### Studia niestacjonarne
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
