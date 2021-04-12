@@ -55,3 +55,5 @@ W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego note
 3. [Podstawowe funkcje biblioteki numpy](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
 
 4. [Euler, Euler-Cromer, RK2 interaktywnie](http://www.physics.umd.edu/hep/drew/numerical_integration/)
+
+5. [O toczeniu się po równi pochyłej](http://www.foton.if.uj.edu.pl/documents/12579485/1b9f1322-396d-42a3-ba2e-127d45ff5159)
