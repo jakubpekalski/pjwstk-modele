@@ -31,6 +31,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 5 - gra w życie](https://colab.research.google.com/drive/1LBT6RvHhbrJnfDXmbVUuZh6ExSG4aA_a?usp=sharing)
 
+- [Ćwiczenia 6 - moment bezwładności, równia pochyła](https://colab.research.google.com/drive/1vG7gmsYY4VXWu8fg1k2yvSytYL-usVTV?usp=sharing)
+
 ### Studia niestacjonarne
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
