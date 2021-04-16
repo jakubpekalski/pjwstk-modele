@@ -41,8 +41,7 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 2 - rozwiązywanie równań różniczkowych](https://colab.research.google.com/drive/1F5njCVxqtUmJBfIdaRzRKr4BV_et5zWz?usp=sharing)
 
-
-
+- [Ćwiczenia 3 - wahadło i równia](https://colab.research.google.com/drive/1dyuPNdge2gddNvVNbgEL_fiXP-bVrEPx?usp=sharing)
 
 ## 3. Czemu należy korzystać z tych notebooków?
 
