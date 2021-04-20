@@ -33,6 +33,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 6 - moment bezwładności, równia pochyła](https://colab.research.google.com/drive/1vG7gmsYY4VXWu8fg1k2yvSytYL-usVTV?usp=sharing)
 
+- [Ćwiczenia 7 - bryła sztywna, wahadło fizyczne](https://colab.research.google.com/drive/12Ew9HyB7CVfxnDkk8vNtPR5oV92p-FII?usp=sharing)
+
 ### Studia niestacjonarne
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
