@@ -60,3 +60,7 @@ W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego note
 4. [Euler, Euler-Cromer, RK2 interaktywnie](http://www.physics.umd.edu/hep/drew/numerical_integration/)
 
 5. [O toczeniu się po równi pochyłej](http://www.foton.if.uj.edu.pl/documents/12579485/1b9f1322-396d-42a3-ba2e-127d45ff5159)
+
+6. [Symulacje bryły sztywnej](https://www.cs.cmu.edu/~baraff/pbm/rigid1.pdf)
+
+7. [Kwaterniony](http://www.deltami.edu.pl/temat/matematyka/algebra/2016/09/30/Liczby_zespolone_i_kwaterniony/)
