@@ -35,6 +35,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 7 - bryła sztywna, wahadło fizyczne](https://colab.research.google.com/drive/12Ew9HyB7CVfxnDkk8vNtPR5oV92p-FII?usp=sharing)
 
+- [Ćwiczenia 8 - kwaterniony](https://colab.research.google.com/drive/1GmK_GVXLCDZRTVg4Qdy_Z6mEjrpxlJN5?usp=sharing)
+
 ### Studia niestacjonarne
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
