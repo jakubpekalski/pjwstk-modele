@@ -67,4 +67,4 @@ W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego note
 
 7. [Kwaterniony](http://www.deltami.edu.pl/temat/matematyka/algebra/2016/09/30/Liczby_zespolone_i_kwaterniony/)
 
-8.[Stanisław Ulam, twórca metody Monte Carlo](https://fas.org/sgp/othergov/doe/lanl/pubs/00285736.pdf?fbclid=IwAR0opV2tL6-WT4sdTqzr0HTUrRlunIFBAwvm5forIgsmwHFw6N2Vof4FOp8)
+8. [Stanisław Ulam, twórca metody Monte Carlo](https://fas.org/sgp/othergov/doe/lanl/pubs/00285736.pdf?fbclid=IwAR0opV2tL6-WT4sdTqzr0HTUrRlunIFBAwvm5forIgsmwHFw6N2Vof4FOp8)
