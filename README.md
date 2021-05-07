@@ -49,6 +49,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 3 - wahadło matematyczne i równia](https://colab.research.google.com/drive/1dyuPNdge2gddNvVNbgEL_fiXP-bVrEPx?usp=sharing)
 
+- [Ćwiczenia 4 - wahadło fizyczne i kwaterniony](https://colab.research.google.com/drive/1i4yfcnsgX9WbhIlLQmBpuc6MeM6KWmgV?usp=sharing)
+
 ## 3. Czemu należy korzystać z tych notebooków?
 
 W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego notebooka jest praca domowa.
