@@ -74,3 +74,5 @@ W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego note
 8. [Stanisław Ulam, twórca metody Monte Carlo](https://fas.org/sgp/othergov/doe/lanl/pubs/00285736.pdf?fbclid=IwAR0opV2tL6-WT4sdTqzr0HTUrRlunIFBAwvm5forIgsmwHFw6N2Vof4FOp8)
 
 9. [Fraktale w pythonie](https://notebook.community/relopezbriega/mi-python-blog/content/notebooks/fractal)
+
+10. [Równanie Laplace'a](https://folk.ntnu.no/leifh/teaching/tkt4140/._main055.html)
