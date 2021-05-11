@@ -39,6 +39,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 9 - Monte Carlo](https://colab.research.google.com/drive/1jOsQIdLQ6DvkDiasy_0vFaOI0v_RauNG?usp=sharing)
 
+- [Ćwiczenia 10 - Równanie Laplace'a](https://colab.research.google.com/drive/1xW9oDvLljtNiVPPvo9nhPmSr_U6yaJwK?usp=sharing)
+
 ### Studia niestacjonarne
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
