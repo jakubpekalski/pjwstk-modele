@@ -78,3 +78,5 @@ W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego note
 9. [Fraktale w pythonie](https://notebook.community/relopezbriega/mi-python-blog/content/notebooks/fractal)
 
 10. [Równanie Laplace'a](https://folk.ntnu.no/leifh/teaching/tkt4140/._main055.html)
+
+11. [Wykład: sztuczne życie](http://www.cs.put.poznan.pl/mkomosinski/site/?q=sztuczne-zycie)
