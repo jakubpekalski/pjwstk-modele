@@ -41,6 +41,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 10 - Równanie Laplace'a](https://colab.research.google.com/drive/1xW9oDvLljtNiVPPvo9nhPmSr_U6yaJwK?usp=sharing)
 
+- [Ćwiczenia 11 - Fraktale](https://colab.research.google.com/drive/1QjjBDnUSbpXRt1qJa3Rr8uEUVQdatgD2?usp=sharing)
+
 ### Studia niestacjonarne
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
