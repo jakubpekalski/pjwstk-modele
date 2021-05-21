@@ -55,6 +55,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 4 - wahadło fizyczne i kwaterniony](https://colab.research.google.com/drive/1i4yfcnsgX9WbhIlLQmBpuc6MeM6KWmgV?usp=sharing)
 
+- [Ćwiczenia 5 - Monte Carlo](https://colab.research.google.com/drive/1DqPPtM_A9_7mZA0cIPJyziCCv2FuV-99?usp=sharing)
+
 ## 3. Czemu należy korzystać z tych notebooków?
 
 W notebookach będziemy wspólnie rozwiązywać zadania. Na końcu każdego notebooka jest praca domowa.
