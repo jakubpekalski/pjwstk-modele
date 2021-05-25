@@ -43,6 +43,8 @@ Na tej stronie publikowane będą notebooki z zadaniami przerabianymi na ćwicze
 
 - [Ćwiczenia 11 - Fraktale](https://colab.research.google.com/drive/1QjjBDnUSbpXRt1qJa3Rr8uEUVQdatgD2?usp=sharing)
 
+- [Ćwiczenia 12 - Równanie Falowe](https://colab.research.google.com/drive/1rrkcZGo1D7VgupWB2tUmEiVBVd5Lxp1U?usp=sharing)
+
 ### Studia niestacjonarne
 
 - [Ćwiczenia 1 - liczenie pochodnych, rozwijanie w szereg](https://colab.research.google.com/drive/17Z0mcG9gsnt8vuGIDpToRx62F1Nfhuqr?usp=sharing)
